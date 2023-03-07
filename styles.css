@@ -1,0 +1,17 @@
+/***********************tag selectors ******************/
+body {
+    background-color: antiquewhite;
+}
+hr {
+    background-color: rgba(255, 255, 255, 0);
+    border-style: dotted none none none;
+    border-color: rgb(240, 183, 183);
+    border-width: 8px;
+    width: 5%;
+}
+h1 {
+    color: #ed942e;
+}
+h3 {
+    color: #ed942e;
+}
